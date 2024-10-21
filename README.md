@@ -6,5 +6,5 @@
 2. Coloque o arquivo na pasta do seu servidor FiveM.
 3. Após adicionar, o sistema será ativado automaticamente e o rádio nativo será desativado sem a necessidade de qualquer configuração adicional.
 
-## 🔗Compatibilidade
+## 🔗 Compatibilidade
 Este script foi desenvolvido especificamente para servidores que utilizam a base QB-CORE e frameworks similares. Ele pode não funcionar corretamente em outras bases.
